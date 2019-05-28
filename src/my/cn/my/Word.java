@@ -8,6 +8,7 @@ public class Word {
         System.out.println("你个哥哥还是妹妹");
         System.out.println("打你哦");
         System.out.println("哼，你理你了");
+        System.out.println("你很帅");
         List<String> str=new ArrayList<>();
         String str1="111";
         String str2="222";
